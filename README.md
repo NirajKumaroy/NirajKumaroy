@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/NirajKumaroy/NirajKumaroy/blob/main/github-header-image%20(5).png?raw=true" alt="Banner.png"></p>
+
 <h1 align="center">👩About Me👩</h1>
 
 <h2 align="center">
