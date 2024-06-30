@@ -2,10 +2,9 @@
 
 <h1 align="center">👩About Me👩</h1>
 
-<h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=820&height=70&duration=5000&lines= Hey+👋What's+Up?;" />
-</h2>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=820&height=70&duration=5000&lines=Hi+There!+👋;+Hey+👋What's+Up?;+My+Name+is+Niraj+Kumar+👋;+I'm+a+passionate+software+developer+from+india+👋;" alt="img.png"/>
+</h1>
 
 <p align="center">🔭 I’m currently working a Chat App<br>🌱 I'm currently learning AI<br>⚡ In my free time listen music <br>💬 Ask me about **JavaScript, Node.js, React, Firebase</p>
 
